@@ -1,3 +1,5 @@
+Please Go through the Project.pdf for project details and screenshots of the Application
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
